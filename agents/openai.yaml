@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 166"
+  short_description: "Sculptural Isometric Bas-relief Diorama"
+  default_prompt: "Use $xxd-panel-166 to transform my photograph following the complete canonical source brief."
