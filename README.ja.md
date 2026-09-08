@@ -10,7 +10,23 @@
 
 ## サンプル展示
 
-計算資源を節約するため、このバッチでは画像モデルを呼び出さず、作例画像も生成していません。原文・リンク・実行スクリプトを検証済みですが、実際の生成品質は未検証です。以下は呼び出し例であり、生成作品ではありません。
+Panel 166 の異なる元画像から個別に生成した初回作例 8 点です。短い英語コピーを使用。横型は 1536×864 で左右等分、縦型は 1152×1536 で上下等分です。
+
+元画像との対応、等距投影の台座と浮彫りの層を確認しました。一部は背景や写実的 CG の細部が多く、模型が大きすぎます。10 は光沢が強く、05・09 には余分な色見本があります。単純化・限定色・広い余白をすべて満たした作例ではなく、初回の実際の結果です。
+
+16:9 · 50:50
+
+| sample-05 | sample-06 |
+|---|---|
+| ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
+| ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
+
+3:4 · 50:50
+
+| sample-09 | sample-10 |
+|---|---|
+| ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
+| ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
 
 ## 向いている場面と解決する課題
 
