@@ -10,23 +10,27 @@
 
 ## サンプル展示
 
-Panel 166 の異なる元画像から個別に生成した初回作例 8 点です。短い英語コピーを使用。横型は 1536×864 で左右等分、縦型は 1152×1536 で上下等分です。
+2026-09-09 再生成：異なる元画像による AI 生成サンプル8点、横4点＋縦4点です。今回の対象は159と161–171で、全96件の元ファイルにSHA-256の重複はありません。160は変更していません。各画像は本Panelの標準スクリプトと完全な原文を使い、短い英文付きで生成しました。
 
-元画像との対応、等距投影の台座と浮彫りの層を確認しました。一部は背景や写実的 CG の細部が多く、模型が大きすぎます。10 は光沢が強く、05・09 には余分な色見本があります。単純化・限定色・広い余白をすべて満たした作例ではなく、初回の実際の結果です。
+生成時のPNGを維持し、拡大縮小・切り抜き・境界補正はしていません。横は1672×941（約16:9）、縦は1086×1448（3:4）です。横の境界は中央付近、縦の元画像領域は約44.3–50.1%で、すべて厳密な50:50ではありません。
 
-16:9 · 50:50
+全画像を原寸とサムネイルで確認し、メタデータ清掃も検証しました。実際の生成結果であり、**すべての美的要件を満たした見本ではありません**。一部は主題・場面・文字が大きく、細部が多く、余白や原文に沿った表現が不十分です。
 
-| sample-05 | sample-06 |
+[生成・SHA-256検証記録](assets/examples/unique-20260909-audit.json)
+
+### 横4点 · 元画像は左、デザインは右
+
+| 05 | 06 |
 |---|---|
-| ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
-| ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
+| ![sample-05](assets/examples/sample-05-unique.png) | ![sample-06](assets/examples/sample-06-unique.png) |
+| ![sample-07](assets/examples/sample-07-unique.png) | ![sample-08](assets/examples/sample-08-unique.png) |
 
-3:4 · 50:50
+### 縦4点 · 元画像は上、デザインは下
 
-| sample-09 | sample-10 |
+| 09 | 10 |
 |---|---|
-| ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
-| ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
+| ![sample-09](assets/examples/sample-09-unique.png) | ![sample-10](assets/examples/sample-10-unique.png) |
+| ![sample-11](assets/examples/sample-11-unique.png) | ![sample-12](assets/examples/sample-12-unique.png) |
 
 ## 向いている場面と解決する課題
 
