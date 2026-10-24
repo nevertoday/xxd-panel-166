@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-166
-description: "Create Panel 166 raster artwork: Sculptural Isometric Bas-relief Diorama. Use when the user invokes xxd-panel-166 or requests this specific visual language."
+description: "XXD Panel 166｜Sculptural Isometric Bas-relief Diorama: rebuilds the most recognisable subject of a photo as a sculptural isometric miniature — an architectural model, sculpted landscape or bas-relief installation seen from an isometric angle, with slightly flattened masses, stepped terrain, platforms, cut sections and relief layers rising from the surface — in a limited palette of 2–4 colours from the photo over a pale warm-neutral ground, no realistic CG, glossy materials, heavy shadows or game-asset look, set in plenty of whitespace with a few quiet words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-166 or asks for isometric diorama, bas-relief model or sculptural miniature from a photo."
 ---
 
 # XXD Panel 166

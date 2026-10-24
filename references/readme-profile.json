@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 166｜Sculptural Isometric Bas-relief Diorama: rebuilds the most recognisable subject of a photo as a sculptural isometric miniature — an architectural model, sculpted landscape or bas-relief installation seen from an isometric angle, with slightly flattened masses, stepped terrain, platforms, cut sections and relief layers rising from the surface — in a limited palette of 2–4 colours from the photo over a pale warm-neutral ground, no realistic CG, glossy materials, heavy shadows or game-asset look, set in plenty of whitespace with a few quiet words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-166 or asks for isometric diorama, bas-relief model or sculptural miniature from a photo.",
+  "short_description": "等距浮雕微缩志：把照片主体做成等距视角的微缩模型，体块压扁，层层浮起像低浮雕",
+  "zh-CN": {
+    "name": "等距浮雕微缩志",
+    "tagline": "把照片主角做成一座等距视角的微缩模型，层层浮起，像一块低浮雕。",
+    "look": "照片里最好认的主体被做成一件等距视角的微缩建筑模型或雕塑景观：体块略微压扁，台阶、平台、切面和层叠地形一级级从平面里浮起来，轮廓清楚、结构简单，有纪念碑感。人物、动物、植物和器物也都变成这种带体量的模型。颜色从照片取 2–4 种，浅暖的中性色铺底，一个主色压住主体，少量深色或强调色拉开层次，不做复杂渐变和光泽。主体周围留出大量空白，少量字安静地放在留白里。",
+    "traits": [
+      "等距视角",
+      "微缩模型",
+      "低浮雕层级",
+      "雕塑体量",
+      "限制色板"
+    ],
+    "good": [
+      "建筑和有体块感的场景：小楼、街角、塔、桥、城墙",
+      "有地形层次的地方：梯田、海边礁石、山坡上的房子、公园台阶",
+      "想做成模型感海报、品牌插画或展览主视觉的照片"
+    ],
+    "poor": [
+      "以表情和情绪为主的人像特写，转成模型后神情会丢失",
+      "柔软、无形的主体：烟雾、水花、蓬松的毛发、薄纱",
+      "想要写实 CG、游戏资产、闪亮材质或厚重阴影的需求"
+    ]
+  },
+  "en": {
+    "name": "Sculptural Isometric Bas-relief Diorama",
+    "tagline": "Builds the star of your photo into an isometric miniature model that rises in layers like a low relief.",
+    "look": "The most recognisable subject becomes an isometric architectural model or sculpted landscape: slightly flattened masses, with steps, platforms, cut faces and stacked terrain rising level by level from the surface, clear outlines, simple structure and a monumental feel. People, animals, plants and objects are turned into the same kind of solid model. Two to four colours from the photo are used: a pale warm neutral for the ground, one main colour for the subject and a little dark or accent colour for depth, with no complex gradients or gloss. Plenty of empty space surrounds the model, with a few quiet words in it.",
+    "traits": [
+      "Isometric view",
+      "Miniature model",
+      "Bas-relief layers",
+      "Sculptural mass",
+      "Limited palette"
+    ],
+    "good": [
+      "Buildings and scenes with solid volumes: a small house, a street corner, a tower, a bridge, a city wall",
+      "Places with layered terrain: rice terraces, seaside rocks, houses on a hillside, park steps",
+      "Photos you want as a model-like poster, brand illustration or exhibition key visual"
+    ],
+    "poor": [
+      "Close-up portraits where expression matters, as the face is lost in the model",
+      "Soft, shapeless subjects: smoke, splashing water, fluffy fur, sheer fabric",
+      "Requests for realistic CG, game assets, shiny materials or heavy shadows"
+    ]
+  },
+  "ja": {
+    "name": "等角投影の彫刻的浅浮彫ジオラマ",
+    "tagline": "写真の主役を等角投影のミニチュア模型にし、浅浮彫のように層を重ねて浮き上がらせます。",
+    "look": "写真でいちばん目立つ主役を、等角投影の建築模型や彫刻的な風景にします。量塊は少し押しつぶされ、階段、台、切断面、重なった地形が平面から一段ずつ浮き上がり、輪郭ははっきり、構造は簡潔で、モニュメントのような存在感があります。人物、動物、植物、器物も同じように量感のある模型になります。色は写真から二〜四色で、淡く温かい中間色を地に、主役にはひとつの主色、奥行きには少しの濃い色や強調色を使い、複雑なグラデーションや光沢は入れません。模型のまわりには大きな余白があり、静かな言葉が少しだけ入ります。",
+    "traits": [
+      "等角投影",
+      "ミニチュア模型",
+      "浅浮彫の層",
+      "彫刻的な量感",
+      "限られた色"
+    ],
+    "good": [
+      "建物や量感のある場面：小さな家、街角、塔、橋、城壁",
+      "地形に段差のある場所：棚田、海辺の岩場、斜面の家並み、公園の階段",
+      "模型のようなポスター、ブランドイラスト、展示のキービジュアルにしたい写真"
+    ],
+    "poor": [
+      "表情が大切な人物のアップ（模型にすると表情が失われます）",
+      "やわらかく形の定まらない主役：煙、水しぶき、ふわふわの毛、薄い布",
+      "写実的な CG、ゲーム素材、光沢のある素材、重い影を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "등각 투영 조각적 부조 디오라마",
+    "tagline": "사진 속 주인공을 등각 투영 미니어처 모형으로 만들어, 얕은 부조처럼 층층이 떠오르게 합니다.",
+    "look": "사진에서 가장 알아보기 쉬운 주인공을 등각 투영 건축 모형이나 조각 풍경으로 만듭니다. 덩어리는 조금 납작하게 눌리고, 계단, 단, 잘린 면, 겹친 지형이 평면에서 한 단씩 솟아오르며, 윤곽은 또렷하고 구조는 단순해 기념비 같은 느낌이 납니다. 사람, 동물, 식물, 물건도 같은 방식의 입체 모형이 됩니다. 색은 사진에서 두세 가지, 많게는 네 가지로, 연하고 따뜻한 중간색을 바탕에, 주인공에는 주색 하나를, 깊이에는 약간의 짙은 색이나 강조색을 쓰며 복잡한 그러데이션이나 광택은 넣지 않습니다. 모형 주변은 넓게 비워 두고, 조용한 글이 조금만 들어갑니다.",
+    "traits": [
+      "등각 투영",
+      "미니어처 모형",
+      "부조 층위",
+      "조각적 덩어리감",
+      "제한된 색"
+    ],
+    "good": [
+      "건물과 덩어리감 있는 장면: 작은 집, 길모퉁이, 탑, 다리, 성벽",
+      "지형에 층이 있는 곳: 계단식 논, 바닷가 바위, 언덕 위 집들, 공원 계단",
+      "모형 같은 포스터, 브랜드 일러스트, 전시 키 비주얼로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "표정이 중요한 인물 클로즈업(모형으로 바꾸면 표정이 사라집니다)",
+      "부드럽고 형태가 없는 주인공: 연기, 물보라, 복슬복슬한 털, 얇은 천",
+      "사실적인 CG, 게임 에셋, 반짝이는 재질, 짙은 그림자를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "ديوراما متساوية القياس بنحت بارز ضحل",
+    "tagline": "يبني بطل صورتك في مجسّم مصغّر بمنظور متساوي القياس، يرتفع طبقات كنحت بارز ضحل.",
+    "look": "يصبح أوضح عنصر في الصورة مجسّماً معمارياً أو منظراً منحوتاً بمنظور متساوي القياس: كتل مضغوطة قليلاً، تعلوها درجات ومنصات وأوجه مقطوعة وتضاريس متراكبة ترتفع مستوى بعد مستوى عن السطح، بحدود واضحة وبنية بسيطة وإحساس نُصُبي. ويتحول الناس والحيوانات والنباتات والأشياء إلى النوع نفسه من المجسّمات الصلبة. تُستخدم من الصورة لونان إلى أربعة ألوان: لون محايد دافئ فاتح للأرضية، ولون رئيسي واحد للعنصر، وقليل من لون داكن أو لون تأكيد للعمق، بلا تدرّجات معقدة ولا لمعان. تحيط بالمجسّم مساحة فارغة كبيرة فيها كلمات هادئة قليلة.",
+    "traits": [
+      "منظور متساوي القياس",
+      "مجسّم مصغّر",
+      "طبقات نحت بارز",
+      "كتلة نحتية",
+      "ألوان محدودة"
+    ],
+    "good": [
+      "مبانٍ ومشاهد ذات كتل صلبة: بيت صغير، زاوية شارع، برج، جسر، سور مدينة",
+      "أماكن ذات تضاريس متدرجة: مدرجات أرز، صخور شاطئية، بيوت على سفح، درجات حديقة",
+      "صور تريدها ملصقاً بطابع المجسّمات أو رسماً لعلامة تجارية أو تصميماً رئيسياً لمعرض"
+    ],
+    "poor": [
+      "صور شخصية قريبة يهمّ فيها التعبير، إذ يضيع الوجه داخل المجسّم",
+      "عناصر ناعمة بلا شكل محدد: دخان، رذاذ ماء، فرو منفوش، قماش شفاف",
+      "طلب رسوم حاسوبية واقعية أو عناصر ألعاب أو خامات لامعة أو ظلال ثقيلة"
+    ]
+  }
+}
